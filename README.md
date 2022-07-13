@@ -22,6 +22,6 @@ This program that made in python was made for calculating Collatz conjecture(3n 
 2. If the number is odd, triple it and add one.
 3. Repeat that, then the number will be 1
 
-- Input an number
+- Input a number
 - Then, the program will calculate with Collatz conjecture
 - After calculation, the program will print the inputed number and how many times the program repeat it
